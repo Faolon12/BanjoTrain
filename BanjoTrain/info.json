@@ -1,0 +1,11 @@
+{
+    "name": "BanjoTrain",
+    "version": "1.1.2",
+    "title": "Banjo Train",
+    "author": "Faolon",
+    "contact": "Faolon@dragonwolfstudios.ca",
+    "homepage": "",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "Changes the sound of the Train to be way better :)."
+}
